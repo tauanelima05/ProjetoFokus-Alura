@@ -3,7 +3,9 @@
 
 <h3 align="center">PROJETO DESENVOLVIDO NO DECORRER DO CURSO JUNTO COM O PROFESSOR LUAN ALVES</h3>
 
-<h4>PRINCIPAIS ASSUNTOS ABORDADOS:</h4>
+<h4 align="center"><a href="https://https://projeto-fokus-alura-jinm.vercel.app/" align="center">Clique aqui para visitar o projeto<a/></h4>
+
+<h4>PRINCIPAIS ASSUNTOS ABORDADOS NO CURSO:</h4>
 
 - Trabalhar com elementos no DOM;
 
@@ -35,7 +37,7 @@
 
 - Inserir temporizador na tela.
 
-<br>
+##
 
 <h4></> TECNOLOGIA APRENDIDA:</h4>
   
