@@ -1,9 +1,9 @@
 <P align="center">👩🏻‍💻</P>
 <h2 align="center">PROJETO FOKUS: ALURA - TAUANE LIMA</h2>
 
-<h4 align="center">PROJETO DESENVOLVIDO NO DECORRER DO CURSO JUNTO COM O PROFESSOR LUAN ALVES</h4>
+<h3 align="center">PROJETO DESENVOLVIDO NO DECORRER DO CURSO JUNTO COM O PROFESSOR LUAN ALVES</h3>
 
-Principais assuntos abordados:
+<h4>PRINCIPAIS ASSUNTOS ABORDADOS:</h4>
 
 - Trabalhar com elementos no DOM;
 
@@ -37,7 +37,7 @@ Principais assuntos abordados:
 
 <br>
 
-</> Tecnologia aprendida:
+<h4></> TECNOLOGIA APRENDIDA:</h4>
   
 </h3>
 
@@ -46,7 +46,7 @@ Principais assuntos abordados:
 
 ##
 
-‣ Foram utilizadas as seguintes tecnologias no projeto:
+<h4>‣ FORAM UTILIZADAS AS SEGUINTES TECNOLOGIAS NO PROJETO:</h4>
 
 - HTML <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
